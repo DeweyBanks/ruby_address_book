@@ -1,0 +1,10 @@
+---
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: home
+    number: 123-456-7890
+  addresses: []
+  first_name: Dewey
+  middle_name: Maynard
+  last_name: Banks
